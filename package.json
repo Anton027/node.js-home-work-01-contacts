@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "commander": "^9.4.1",
+    "nanoid": "^3.3.4",
+    "nodemon": "^2.0.20",
+    "yargs": "^17.6.0"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon contacts.js",
+    "test": "echo \"no test specified\" && exit 1"
+  },
+  "name": "home-work-01-contacts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Kutsim_Anton <kutsimanton@gmail.com>",
+  "license": "ISC",
+  "description": ""
+}
